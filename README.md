@@ -1,2 +1,6 @@
 # -hello_world
-First github project
+Hello people of earth. 
+
+I have come rid your planet of stupid people.
+
+Please provide a list.
